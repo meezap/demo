@@ -14,7 +14,7 @@ public class MeenaSqlExpApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeenaSqlExpApplication.class, args);
-		System.out.println("welcome meena Added GIT and jenkins and all");
+		System.out.println("welcome meena Added GIT and jenkins and all System Time");
 	}
 	
 	/*
